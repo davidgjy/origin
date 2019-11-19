@@ -11,5 +11,6 @@
 
     <modules>
         <module>mybatis-plus</module>
+        <module>db-cryptor</module>
     </modules>
 </project>
