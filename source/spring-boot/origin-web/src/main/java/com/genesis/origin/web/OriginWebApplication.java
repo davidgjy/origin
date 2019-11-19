@@ -2,6 +2,7 @@ package com.genesis.origin.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
  * @author : KG
@@ -10,6 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * modified by :
  */
 @SpringBootApplication
+@EnableSwagger2
 public class OriginWebApplication {
 
 	public static void main(String[] args) {
