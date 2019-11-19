@@ -4,7 +4,7 @@ import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.genesis.origin.web.domain.entity.User;
 import com.genesis.origin.web.mapper.UserMapper;
 import com.genesis.origin.web.repository.UserRepository;
-import org.springframework.stereotype.Service;
+import org.springframework.stereotype.Repository;
 
 /**
  * <p>
@@ -14,7 +14,7 @@ import org.springframework.stereotype.Service;
  * @author KG
  * @since 2019-11-19
  */
-@Service
+@Repository
 public class UserRepositoryImpl extends ServiceImpl<UserMapper, User> implements UserRepository {
 
 }
