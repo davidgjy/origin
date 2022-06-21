@@ -15,7 +15,7 @@
         <mybatis-plus.version>3.2.0</mybatis-plus.version>
         <velocity.version>2.1</velocity.version>
         <commons-lang3.version>3.3.2</commons-lang3.version>
-        <mysql-connector.version>6.0.4</mysql-connector.version>
+        <mysql-connector.version>8.0.28</mysql-connector.version>
     </properties>
 
     <dependencies>
