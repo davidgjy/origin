@@ -28,7 +28,7 @@
 		<modelmapper.version>2.2.0</modelmapper.version>
 		<mustache.version>0.9.5</mustache.version>
 		<dom4j.version>1.6.1</dom4j.version>
-		<poi.version>3.17</poi.version>
+		<poi.version>4.1.1</poi.version>
 		<slf4j.version>1.6.4</slf4j.version>
 		<jackson.version>2.9.8</jackson.version>
 		<druid.version>1.0.9</druid.version>
